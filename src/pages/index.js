@@ -10,6 +10,7 @@ import Main from "../components/main"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
+    <Main title="FEATURED PRODUCTS" />
     <h1>FEATURED PRODUCTS</h1>
     <p>Welcome to your new Gatsby site.</p>
     <p>Now go build something great.</p>
